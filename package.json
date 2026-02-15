@@ -1,0 +1,11 @@
+{
+  "name": "cross-chain-bridge-message-executor",
+  "version": "1.0.0",
+  "description": "Cross-chain messaging and execution logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
